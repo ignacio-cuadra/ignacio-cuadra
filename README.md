@@ -1,5 +1,5 @@
 - 👋 Hola, soy Ignacio Cuadra
-- 👀 Estot interesado en el desarrollo y descubrimiento de nuevas tecnologías.
+- 👀 Estoy interesado en el desarrollo y descubrimiento de nuevas tecnologías.
 - 🌱 Actualmente me encuentro estudiando Dart y Flutter.
 
 <!---
