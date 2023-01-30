@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ignacio Cuadra</h1>
 <h3 align="center">A passionate full stack developer from Chile</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ignacio-cuadra&label=Profile%20views&color=0e75b6&style=flat" alt="ignacio-cuadra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ignacio-cuadra&label=Profile%20views&color=0e75b6&style=flat" alt="ignacio-cuadra" /></p>
 
 - 🔭 I’m currently working on [excalidraw](https://github.com/excalidraw/excalidraw)
 
@@ -16,3 +16,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ignacio-cuadra&" alt="ignacio-cuadra" /></p>
 
+<p alight="left"><a href="https://www.codewars.com/users/ignacio-cuadra" target="_blank" rel="noreferrer"> <img align="center" src="https://www.codewars.com/users/ignacio-cuadra/badges/micro" alt = "ignacio-cuadra"/></a></p>
