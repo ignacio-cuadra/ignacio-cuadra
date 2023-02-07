@@ -16,4 +16,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ignacio-cuadra&" alt="ignacio-cuadra" /></p>
 
-<p alight="left"><a href="https://www.codewars.com/users/ignacio-cuadra" target="_blank" rel="noreferrer"> <img align="center" src="https://codewars-stats-dpmm27lxa-ignacio-cuadra.vercel.app/?username=ignacio-cuadra" alt = "ignacio-cuadra"/></a></p> 
+<p alight="left"><a href="https://www.codewars.com/users/ignacio-cuadra" target="_blank" rel="noreferrer"> <img align="center" src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=ignacio-cuadra" alt = "ignacio-cuadra"/></a></p> 
