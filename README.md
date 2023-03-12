@@ -16,5 +16,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ignacio-cuadra&" alt="ignacio-cuadra" /></p>
 
-<p alight="left"><a href="https://www.codewars.com/users/ignacio-cuadra" target="_blank" rel="noreferrer"> <img align="center" src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=ignacio-cuadra" alt = "ignacio-cuadra"/></a></p>
+<p alight="left"><a href="https://www.codewars.com/users/ignacio-cuadra" target="_blank" rel="noreferrer"> <img align="center" src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=ignacio-cuadra&theme=dark" alt = "ignacio-cuadra"/></a></p>
 <p>do you want to show your codewars stats? check <a href = "https://github.com/ignacio-cuadra/codewars-stats">Github Readme Codewars</a></p>
