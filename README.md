@@ -18,3 +18,8 @@
 
 <p alight="left"><a href="https://www.codewars.com/users/ignacio-cuadra" target="_blank" rel="noreferrer"> <img align="center" src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=ignacio-cuadra&theme=dark" alt = "ignacio-cuadra"/></a></p>
 <p>do you want to show your codewars stats? check <a href = "https://github.com/ignacio-cuadra/codewars-stats">Github Readme Codewars</a></p>
+
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
